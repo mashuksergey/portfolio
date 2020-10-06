@@ -4,7 +4,7 @@
 namespace FileSystemService;
 
 
-use App\Repository\UserInvoiceRepository;
+use Repository\UserInvoiceRepository;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Contracts\Filesystem\Filesystem;
 
